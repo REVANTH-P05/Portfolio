@@ -1,0 +1,763 @@
+Build a modern, professional, responsive personal portfolio website for a final-year Computer Science Engineering student named REVANTH P.
+
+The portfolio is primarily intended for:
+- Software developer job applications
+- Campus placements
+- Recruiters
+- Internship opportunities
+- Professional networking
+
+The website should look like a professional developer portfolio, not like a generic student template.
+
+==================================================
+1. TECHNOLOGY REQUIREMENTS
+==================================================
+
+Use:
+
+- HTML5
+- CSS3
+- JavaScript
+
+Do NOT use React unless absolutely necessary.
+
+The website should be:
+- Fully responsive
+- Mobile-first
+- Fast loading
+- SEO-friendly
+- Accessible
+- Cleanly structured
+- Easy to maintain
+
+Use modern CSS features such as:
+- CSS Grid
+- Flexbox
+- CSS variables
+- CSS animations
+- Media queries
+- Smooth scrolling
+
+Use JavaScript only where it improves functionality.
+
+Do not add unnecessary libraries or frameworks.
+
+==================================================
+2. DESIGN STYLE
+==================================================
+
+Create a premium modern developer portfolio with a dark theme.
+
+Overall visual style:
+- Minimal
+- Professional
+- Modern
+- Clean
+- Slightly futuristic
+- Recruiter-friendly
+
+Avoid:
+- Excessive animations
+- Excessive gradients
+- Cartoon-style graphics
+- Overly colorful backgrounds
+- Huge text everywhere
+- Unnecessary 3D effects
+- Excessive glassmorphism
+- Cluttered layouts
+
+Suggested design:
+- Dark background
+- White/light gray typography
+- One primary accent color
+- Subtle borders
+- Rounded cards
+- Soft shadows
+- Good spacing
+- Professional typography
+
+Use a modern font such as:
+- Inter
+or
+- Poppins
+
+Use a consistent spacing system throughout the website.
+
+==================================================
+3. NAVIGATION BAR
+==================================================
+
+Create a sticky navigation bar at the top.
+
+Left side:
+REVANTH P.
+
+Right side navigation:
+
+Home
+About
+Skills
+Education
+Experience
+Projects
+Certifications
+Achievements
+Contact
+
+Add a responsive mobile hamburger menu.
+
+The navbar should:
+- Remain visible while scrolling
+- Highlight the active section
+- Have smooth hover effects
+- Collapse properly on mobile
+
+==================================================
+4. HERO / HOME SECTION
+==================================================
+
+Create a visually impressive hero section.
+
+Main heading:
+
+Hi, I'm REVANTH P.
+
+Main title:
+
+Computer Science Engineering Student | Java Developer
+
+Description:
+
+I'm a final-year Computer Science Engineering student passionate about Java development and building practical software solutions.
+
+Add two CTA buttons:
+
+VIEW MY PROJECTS
+DOWNLOAD RESUME
+
+Also display social links:
+
+GitHub
+LinkedIn
+Email
+
+Hero layout:
+- Left side: text and CTA buttons
+- Right side: professional developer-style visual area
+
+If a profile photo is provided later, use it in the right-side visual area.
+
+Do NOT invent a personal photo.
+
+Add subtle entrance animations to the hero content.
+
+==================================================
+5. ABOUT SECTION
+==================================================
+
+Section heading:
+
+About Me
+
+Content:
+
+I am a final-year Computer Science Engineering student at K S Rangasamy College of Technology with a strong interest in Java development and software engineering.
+
+I enjoy developing practical applications, solving programming problems, and learning new technologies. Through academic projects and internships, I have gained hands-on experience in web development, Java, databases, automation, and application development.
+
+I am currently looking for opportunities where I can apply my technical skills, learn from experienced professionals, and contribute to real-world software projects.
+
+Display a few quick information cards:
+
+Education:
+B.E. Computer Science and Engineering
+
+College:
+K S Rangasamy College of Technology
+
+CGPA:
+8.2 / 10
+
+CGPA note:
+Up to 6th Semester
+
+Graduation:
+2027
+
+==================================================
+6. SKILLS SECTION
+==================================================
+
+Section heading:
+
+Skills
+
+Show skills using clean cards or categorized groups.
+
+Programming Language:
+- Java
+
+Web Development:
+- HTML
+- CSS
+- JavaScript
+- PHP
+
+Database:
+- MySQL
+
+Tools & Platforms:
+- Git
+- GitHub
+- Google Colab
+- Salesforce
+- Power BI
+- UiPath
+
+Do NOT display fake skill percentages.
+
+Do NOT use progress bars such as:
+Java 95%
+HTML 90%
+
+Instead, use professional skill cards with icons and technology names.
+
+Add subtle hover animations.
+
+==================================================
+7. EDUCATION SECTION
+==================================================
+
+Section heading:
+
+Education
+
+Create a clean timeline/card.
+
+Institution:
+
+K S Rangasamy College of Technology
+
+Degree:
+
+B.E. Computer Science and Engineering
+
+Duration:
+
+2023 – 2027
+
+CGPA:
+
+8.2 / 10 (up to 6th Semester)
+
+Use a professional timeline or education card.
+
+==================================================
+8. EXPERIENCE SECTION
+==================================================
+
+Section heading:
+
+Experience
+
+Create one main experience card.
+
+Role:
+
+Full Stack Developer Intern
+
+Company:
+
+Calanjiyam Consultancies and Technologies
+
+Duration:
+
+10 Weeks
+
+Responsibilities:
+
+- Worked on full-stack development for web-based applications.
+- Contributed to the development of an Athlete Management System.
+- Developed and improved user-friendly web interfaces.
+- Worked with frontend and backend technologies to build application features.
+- Gained practical experience in application development, database integration, and project collaboration.
+
+Do NOT include the Motherson internship.
+
+Do NOT call the role Front-End Developer.
+
+The role must be displayed as:
+
+Full Stack Developer Intern
+
+==================================================
+9. PROJECTS SECTION
+==================================================
+
+Section heading:
+
+Projects
+
+Show exactly THREE projects.
+
+Do not add any other projects.
+
+Use attractive project cards with:
+- Project title
+- Short description
+- Key features
+- Technologies
+- GitHub button placeholder
+- Live Demo button placeholder
+
+The GitHub and Live Demo links will be added later.
+
+------------------------------------------
+PROJECT 1
+------------------------------------------
+
+Title:
+
+AgriLink — Smart Agriculture Marketplace & Community Platform
+
+Description:
+
+AgriLink is a web-based platform designed to support farmers by providing a digital marketplace and community platform for sharing agricultural resources and connecting with other farmers.
+
+Key Features:
+
+- User Registration & Login
+- Farmer Profile
+- Product Marketplace
+- Equipment Sharing
+- Equipment Booking
+- Resource Exchange
+- Community Discussion
+- Search & Filter
+- Farmer Dashboard
+- Admin Dashboard
+
+Technologies:
+
+- HTML
+- CSS
+- JavaScript
+- Java
+- MySQL
+
+Display this as a featured/highlighted project.
+
+------------------------------------------
+PROJECT 2
+------------------------------------------
+
+Title:
+
+FinMate — Student Personal Finance Dashboard
+
+Description:
+
+FinMate is a student-focused personal finance dashboard designed to help college students manage their allowances, track daily expenses, set monthly budgets, and understand their spending patterns.
+
+Key Features:
+
+- Student Account Management
+- Monthly Budget Management
+- Expense Tracking
+- Smart Transaction Logger
+- Spending Analysis
+- Interactive Financial Dashboard
+- Budget Monitoring
+- Email Reminders
+
+Technologies:
+
+- HTML
+- CSS
+- JavaScript
+- Supabase
+- PostgreSQL
+- Vercel
+- Resend
+
+------------------------------------------
+PROJECT 3
+------------------------------------------
+
+Title:
+
+Student Result Management System
+
+Description:
+
+A web-based application developed to manage student academic results efficiently and provide an organized system for storing and accessing student performance information.
+
+Key Features:
+
+- Student Record Management
+- Result Management
+- Marks Entry
+- Student Performance Viewing
+- Database Management
+- User-friendly Interface
+
+Technologies:
+
+- HTML
+- CSS
+- Bootstrap
+- jQuery
+- PHP
+- MySQL
+
+IMPORTANT:
+
+Do not include:
+- AI Nutrition Analyzer
+- Smart Agriculture Assistant
+- Any other project
+
+Only show the three projects above.
+
+==================================================
+10. CERTIFICATIONS SECTION
+==================================================
+
+Section heading:
+
+Certifications
+
+Show exactly two certification cards.
+
+Certification 1:
+
+Oracle AI Foundation Associate
+Oracle
+
+Certification 2:
+
+Digital Engineering — Gold
+NASSCOM
+
+Keep this section visually clean.
+
+Do not invent certification dates or certificate IDs.
+
+==================================================
+11. ACHIEVEMENTS & ACTIVITIES
+==================================================
+
+Section heading:
+
+Achievements & Activities
+
+Create a professional achievement card.
+
+Title:
+
+NCC Air Wing Cadet
+
+Organization:
+
+5 TN Air Sqn Tech NCC, Salem
+
+Achievements:
+
+B Certificate — A Grade
+
+C Certificate — B Grade
+
+Use subtle icons but keep the section professional.
+
+==================================================
+12. RESUME SECTION
+==================================================
+
+Section heading:
+
+Resume
+
+Heading:
+
+Download My Resume
+
+Description:
+
+Interested in learning more about my skills, experience, and projects?
+
+Download my resume to explore my academic background, technical skills, internships, projects, certifications, and achievements.
+
+Create a prominent button:
+
+DOWNLOAD RESUME
+
+Use this resume link:
+
+https://drive.google.com/file/d/1nx8hjs2rTphMwtpM8HVJZKnFBDsG6_NH/view?usp=sharing
+
+The button should open the resume in a new browser tab.
+
+==================================================
+13. CONTACT SECTION
+==================================================
+
+Section heading:
+
+Let's Connect
+
+Description:
+
+I'm always interested in learning, building new projects, and exploring opportunities in software development.
+
+If you'd like to connect with me, feel free to reach out through the links below.
+
+Display contact cards/buttons for:
+
+Email
+
+LinkedIn
+
+GitHub
+
+LinkedIn:
+https://www.linkedin.com/in/revanth-web-dev/
+
+GitHub:
+https://github.com/REVANTH-P05
+
+IMPORTANT:
+
+Do not invent my email address.
+
+Create an email placeholder that can easily be replaced later.
+
+Add a CTA:
+
+LET'S CONNECT
+
+==================================================
+14. FOOTER
+==================================================
+
+Create a minimal professional footer.
+
+Display:
+
+REVANTH P.
+
+Computer Science Engineering Student | Java Developer
+
+Java · HTML · CSS · JavaScript · PHP · MySQL
+
+GitHub
+LinkedIn
+Email
+
+© 2026 REVANTH P. All Rights Reserved.
+
+==================================================
+15. ANIMATIONS
+==================================================
+
+Use subtle animations only.
+
+Include:
+- Smooth scrolling
+- Fade-in on scroll
+- Slide-up section animations
+- Button hover effects
+- Project card hover effects
+- Skill card hover effects
+- Navbar transition
+- Active navigation indicator
+
+Animations must be fast and professional.
+
+Respect prefers-reduced-motion for accessibility.
+
+==================================================
+16. RESPONSIVE DESIGN
+==================================================
+
+The website must work perfectly on:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+Desktop:
+Use a spacious layout.
+
+Tablet:
+Adjust grid columns.
+
+Mobile:
+- Single-column layout
+- Hamburger navigation
+- Properly sized typography
+- Full-width buttons where appropriate
+- No horizontal scrolling
+- Project cards stacked vertically
+
+Test the layout around:
+- 320px
+- 375px
+- 768px
+- 1024px
+- 1440px
+
+==================================================
+17. PROJECT VISUALS
+==================================================
+
+Each project should have a visual/project preview area.
+
+Do not use random stock images.
+
+Create clean abstract project thumbnails using CSS or simple generated visual elements if actual screenshots are not available.
+
+For example:
+
+AgriLink:
+Agriculture / marketplace themed abstract UI
+
+FinMate:
+Finance dashboard themed abstract UI
+
+Student Result Management:
+Education / dashboard themed abstract UI
+
+Make sure these visuals do not falsely claim to be actual screenshots.
+
+==================================================
+18. ACCESSIBILITY
+==================================================
+
+Follow accessibility best practices:
+
+- Semantic HTML
+- Proper heading hierarchy
+- Alt text for images
+- Keyboard navigation
+- Visible focus states
+- Good contrast
+- Accessible buttons
+- Accessible mobile menu
+
+==================================================
+19. SEO
+==================================================
+
+Add:
+
+Title:
+
+REVANTH P. | Java Developer | Computer Science Engineering Student
+
+Meta description:
+
+Portfolio of REVANTH P., a Computer Science Engineering student and Java Developer showcasing projects, technical skills, internship experience, certifications, and achievements.
+
+Add appropriate Open Graph metadata.
+
+==================================================
+20. PERFORMANCE
+==================================================
+
+Optimize for:
+- Fast loading
+- Minimal dependencies
+- Optimized assets
+- Lazy loading where appropriate
+- Minimal JavaScript
+- Clean CSS
+
+Do not add unnecessary animations or libraries that reduce performance.
+
+==================================================
+21. CODE STRUCTURE
+==================================================
+
+Use this structure:
+
+portfolio/
+│
+├── index.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── images/
+│   └── ...
+│
+├── assets/
+│   └── resume.pdf
+│
+└── README.md
+
+Keep HTML, CSS, and JavaScript separated.
+
+Write clean, readable, well-commented code.
+
+==================================================
+22. IMPORTANT CONTENT RULES
+==================================================
+
+Do not invent:
+- Work experience
+- Projects
+- Certifications
+- Skills
+- Awards
+- Email address
+- Project links
+- Statistics
+- Client information
+- Company achievements
+
+Use only the information provided in this prompt.
+
+Do not mention AI/ML in the personal branding or Hero section.
+
+The portfolio should primarily position REVANTH P. as:
+
+Computer Science Engineering Student
+Java Developer
+Full Stack Developer Intern
+
+==================================================
+23. FINAL USER EXPERIENCE
+==================================================
+
+The final portfolio should feel like a professional developer's personal website.
+
+The recruiter should be able to understand within 30 seconds:
+
+1. Who REVANTH P. is
+2. What technologies he knows
+3. His education
+4. His internship experience
+5. His three main projects
+6. His certifications
+7. His NCC achievements
+8. How to download his resume
+9. How to contact him
+
+Make the overall design polished, professional, modern, and placement-ready.
+
+Before finalizing, check:
+- All navigation links work
+- Resume button works
+- GitHub link works
+- LinkedIn link works
+- No broken links
+- No placeholder project descriptions
+- No spelling errors
+- No horizontal scrolling
+- Mobile layout works correctly
+- All sections have consistent spacing
+- All buttons have hover/focus states
